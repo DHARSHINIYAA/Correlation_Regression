@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+#EX.3 Correlation and regression for data analysis
 #DHARSHINIYAA KS 212223100004
 #CSE(CS)
 # Aim : 
